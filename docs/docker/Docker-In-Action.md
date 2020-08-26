@@ -19,7 +19,7 @@ Notes from the book [Docker In Action](https://www.manning.com/books/docker-in-a
 # Chapter 1
 - Docker containers are faster than VMs to start, partly because they do NOT offer any hardware virtualization.  
 	- VMs provide hardware abstractions so you can run operating systems.
-- Docker uses Linux `namespaces` and `cgropus`
+- Docker uses Linux `namespaces` and `cgroups`
 	- Hamel: I don't know what this is
 	
 
